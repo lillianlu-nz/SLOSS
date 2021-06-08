@@ -2,6 +2,6 @@
 
 This is a small scale research project which simulates biodiversity changes under different community sizes and bridge strenghs, using the concept of the unified neutral theory. It is part of the AUT Master of Analytics programme. The copyright belongs to the researcher Lillian Lu. 
 
-The R functions are free to use should you want to extend the study. Reference to this GitHub link is required.  
+Hit "view code" to access the research report, the algorithm and the analysis files in R. The R functions are free to use should you want to extend the study. Reference to this GitHub link is required.  
 
 Any questions, please reach out to lillianlu.nz@gmail.com
